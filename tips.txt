@@ -1,0 +1,37 @@
+-------------------------------------------------------------------
+
+yarn add react-router-dom@5.0.1
+
+yarn add styled-components@4.3.2
+
+yarn add react-icons@3.7.0
+
+yarn add polished@3.4.1
+
+yarn global add json-server@0.15.0
+
+yarn add axios@0.19.0
+
+json-server server.json -p 3333 -w ////////////// [npx json-server --watch ./server.json]
+
+yarn add redux@4.0.1 react-redux@7.1.0
+
+yarn add reactotron-react-js@3.3.2 reactotron-redux@3.1.1
+
+yarn add immer@3.1.3 ///// yarn add immer@latest
+
+yarn add redux-saga@1.0.5
+
+yarn add reactotron-redux-saga@4.2.2
+
+yarn add react-toastify@5.3.1
+
+yarn add history@4.9.0
+
+-------------------------------------------------------------------
+
+json-server server.json -p 3333 -> Para iniciar a API fake!
+
+yarn start -> Para iniciar o server de desenvolvimento!
+
+-------------------------------------------------------------------

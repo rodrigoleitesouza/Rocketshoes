@@ -20,6 +20,6 @@ Adicione os produtos desejados ao carrinho e simule sua compra.
 
 ------------------------------------------------------------------
 
-Qualquer dúvida entre em contato por <a href="mailto:rodrigoleitesouzadev@gmail.com?">rodrigoleitesouza@gmail.com</a>
+Qualquer dúvida entre em contato por <a href="mailto:rodrigoleitesouzadev@gmail.com?">rodrigoleitesouzadev@gmail.com</a>
 
  

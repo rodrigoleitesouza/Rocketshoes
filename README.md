@@ -6,7 +6,7 @@ App web que simula um e-commerce utilizando uma api-fake para compra de produtos
 
 ### `Demonstração`
 
-![Alt Text](https://media2.giphy.com/media/GV2Smn76C5nXcpvxfc/giphy.gif)
+![GIF](https://media2.giphy.com/media/GV2Smn76C5nXcpvxfc/giphy.gif)
 
 ### `Como iniciar?`
 

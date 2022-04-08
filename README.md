@@ -6,7 +6,7 @@ App web que simula um e-commerce utilizando uma api-fake para compra de produtos
 
 ### `Como iniciar?`
 
-1 - Defina em seu terminal o diretório "*Project*" e digite "*json-server server.json -p 3333*" para inicar a api-fake;
+1 - Defina em seu terminal o diretório "*Project*" e digite "*json-server server.json -p 3333*" para iniciar a API fake;
 
 2 - Defina em seu terminal o diretório "*Project*" e digite "*yarn start*" para inicar a aplicação.
 
@@ -16,7 +16,7 @@ Adicione os produtos desejados ao carrinho e simule sua compra.
 
 ### `Demonstração`
 
-![GIF](https://media2.giphy.com/media/GV2Smn76C5nXcpvxfc/giphy.gif)
+![GIF](https://i.imgur.com/6BKVyon.gif)
 
 ------------------------------------------------------------------
 

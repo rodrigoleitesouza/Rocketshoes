@@ -4,6 +4,19 @@
 
 App web que simula um e-commerce utilizando uma api-fake para compra de produtos.
 
+### `Tecnologias`
+
+- React.JS;
+- React Router Dom;
+- Redux;
+- Redux Saga;
+- Axios;
+- Immer;
+- History;
+- Reactotron;
+- Toastify;
+- Styled-Components.
+
 ### `Como iniciar?`
 
 1 - Defina em seu terminal o diretório "*Project*" e digite "*json-server server.json -p 3333*" para iniciar a API fake;
